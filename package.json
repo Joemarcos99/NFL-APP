@@ -1,8 +1,8 @@
 {
-  "name": "nfl-app",
+  "name": "Nfl-Game-Data",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Joemarcos99/Nfl-Game-Data",
+  "homepage": "https://joemarcos99.github.io/Nfl-Game-Data",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
