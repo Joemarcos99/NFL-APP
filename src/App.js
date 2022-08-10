@@ -7,7 +7,7 @@ Title: Nfl Game Data
 import React, { useState, useEffect } from "react";
 import Home from "./components/Home";
 import TeamData from "./components/TeamData";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 function App() {
   const [data, setData] = useState(JSON.parse(localStorage.getItem("data")));
   const [team, setTeam] = useState(JSON.parse(localStorage.getItem("team")));
