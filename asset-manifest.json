@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Joemarcos99/Nfl-Game-Data/static/css/main.1ad11f8c.css",
-    "main.js": "/Joemarcos99/Nfl-Game-Data/static/js/main.e451f47d.js",
-    "index.html": "/Joemarcos99/Nfl-Game-Data/index.html",
-    "main.1ad11f8c.css.map": "/Joemarcos99/Nfl-Game-Data/static/css/main.1ad11f8c.css.map",
-    "main.e451f47d.js.map": "/Joemarcos99/Nfl-Game-Data/static/js/main.e451f47d.js.map"
+    "main.css": "/Nfl-Game-Data/static/css/main.1ad11f8c.css",
+    "main.js": "/Nfl-Game-Data/static/js/main.e451f47d.js",
+    "index.html": "/Nfl-Game-Data/index.html",
+    "main.1ad11f8c.css.map": "/Nfl-Game-Data/static/css/main.1ad11f8c.css.map",
+    "main.e451f47d.js.map": "/Nfl-Game-Data/static/js/main.e451f47d.js.map"
   },
   "entrypoints": [
     "static/css/main.1ad11f8c.css",
