@@ -2,7 +2,7 @@
   "name": "nfl-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Joemarcos99/NFL-APP.git",
+  "homepage": "https://github.com/Joemarcos99/Nfl-Game-Data",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
