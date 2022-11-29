@@ -63,7 +63,7 @@ export default function Home(props) {
       <div className="logo-container">
         <img
           className="logo"
-          src="https://i.ebayimg.com/images/i/111263765828-0-1/s-l1000.jpg"
+          src="https://videos.company3.com/2016/09/Logo-NFL.png"
         />
         <h1 className="title">NFL Game Data</h1>
       </div>

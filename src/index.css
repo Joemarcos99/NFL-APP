@@ -59,7 +59,7 @@ Home Page style
   padding: 3rem 0;
 }
 .logo {
-  width: 25rem;
+  width: 30rem;
   border: none;
 }
 
@@ -67,6 +67,8 @@ Home Page style
   position: relative;
   text-align: center;
   color: rgb(255, 234, 7);
+  display: flex;
+  justify-content: center;
 }
 
 .title {
